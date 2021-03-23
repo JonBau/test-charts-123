@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  pyvolt-service:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-03-23T14:31:01.439736183Z"
+    description: A Helm chart for Kubernetes
+    digest: 5696d3e98ae18aed4ee1f562e5ae3e9dd2e16a311560f1ff058feecd5f0f2aa9
+    maintainers:
+    - email: jonas.baude@eonerc.rwth-aachen.de
+      name: Jonas Baude
+    name: pyvolt-service
+    type: application
+    urls:
+    - https://github.com/JonBau/test-charts-123/releases/download/pyvolt-service-0.1.0/pyvolt-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-23T14:31:01.440293405Z"
